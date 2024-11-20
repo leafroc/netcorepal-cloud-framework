@@ -7,6 +7,7 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/netcorepal/netcorepal-cloud-framework/blob/main/LICENSE)
 
 一个基于`ASP.NET Core`实现的`领域驱动设计`落地`战术`框架。
+这是我的测试。
 
 A `tactical` framework for `Domain-Driven Design` based on `ASP.NET Core`.
 
