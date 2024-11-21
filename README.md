@@ -6,7 +6,7 @@
 [![MyGet Preview](https://img.shields.io/myget/netcorepal/vpre/NetCorePal.Extensions.AspNetCore?label=preview)](https://www.myget.org/feed/netcorepal/package/nuget/NetCorePal.Extensions.AspNetCore)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/netcorepal/netcorepal-cloud-framework/blob/main/LICENSE)
 
-一个基于`ASP.NET Core`实现的`领域驱动设计`落地`战术`框架。
+一个基于`ASP.NET Core`实现的`领域驱动设计`落地`战术`框架。测试打包。
 
 A `tactical` framework for `Domain-Driven Design` based on `ASP.NET Core`.
 
